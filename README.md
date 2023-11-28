@@ -16,6 +16,7 @@ Educations
 Certifications
 - SQL Professional, KOREA Data Agency
 - Advanced Data Analytics Semi-Professional, KOREA Data Agency
+- MUAY THAI 1ST DAN, The Korea Muay Thai Association (😃 A sound code from a sound body)
 
 Contacts
 - Email - vwjdalsgkv@gmail.com
