@@ -11,7 +11,7 @@ Activities
 - Partial translation of 'Efficient Go' ('Go 성능 최적화 가이드') book as Golang Korea Community member.
 
 Educations
-- Bachelor's degree of Advanced Industry Fusion, Konkuk University (Undergraduate, 2021.03 - 2024.02 expected)
+- Bachelor's degree of Advanced Industry Fusion, Konkuk University (Undergraduate, 2021.03 - 2024.02)
 
 Certifications
 - SQL Professional, KOREA Data Agency
